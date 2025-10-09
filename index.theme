@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Mint-Breeze-Calm-Green
+Comment=Lovely dark flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Mint-Breeze-Calm-Green
+MetacityTheme=Mint-Y
+IconTheme=Mint-Breeze-Calm-Green-Icons
+CursorTheme=XCursor-Pro-Light
+ButtonLayout=menu:minimize,maximize,close
