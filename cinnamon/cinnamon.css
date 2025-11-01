@@ -1820,19 +1820,19 @@ StScrollBar {
   .dialog .dialog-button:hover {
     border: 1px solid #2b2f34;
     color: #e1e1e1;
-    background-color: #494951; }
+    background-color: #494f51; }
   .dialog .dialog-button:active {
     border: 1px solid #2b2f34;
     color: #e1e1e1;
-    background-color: #3c3c44; }
+    background-color: #556164; }
   .dialog .dialog-button:checked {
     border: 1px solid #2b2f34;
     color: #e1e1e1;
-    background-color: #3c3c44; }
+    background-color: #556164; }
   .dialog .dialog-button:insensitive {
     border: 1px solid #2b2f34;
     color: rgba(225, 225, 225, 0.5);
-    background-color: #29292e; }
+    background-color: #292c2e; }
 
 .dialog .dialog-button:default {
   border: 1px solid #458f9f;
@@ -1859,7 +1859,7 @@ StScrollBar {
     border-color: #2b2f34;
     border: 1px solid #2b2f34;
     color: rgba(225, 225, 225, 0.5);
-    background-color: #29292e; }
+    background-color: #292c2e; }
 
 .dialog .dialog-button:destructive-action {
   border: 1px solid #c01c28;
@@ -1886,7 +1886,7 @@ StScrollBar {
     border-color: #2b2f34;
     border: 1px solid #2b2f34;
     color: rgba(225, 225, 225, 0.5);
-    background-color: #29292e; }
+    background-color: #292c2e; }
 
 .dialog {
   background-color: #191d21;
