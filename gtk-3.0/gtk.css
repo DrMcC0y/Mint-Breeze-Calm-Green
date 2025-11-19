@@ -788,7 +788,7 @@ toolbar, .inline-toolbar {
   border-image: linear-gradient(to bottom, @dark_gray_main, #0d0d0d) 1 0 1 0; }
 
 .inline-toolbar {
-  background-color: #303030;
+  background-color: @theme_base_color;
   border-style: solid;
   border-color: @border_dark;
   border-width: 0 1px 1px;
@@ -805,7 +805,7 @@ searchbar {
 actionbar {
   padding: 6px;
   border-top: 1px solid @border_dark;
-  background-color: #303030; }
+  background-color: @theme_base_color; }
 
 headerbar,
 .titlebar:not(headerbar) {
@@ -3246,7 +3246,7 @@ NautilusQueryEditor .search-bar.toolbar {
     background-color: rgba(31, 158, 222, 0.8);
     border-color: rgba(25, 126, 177, 0.8); }
   .disk-space-display.free {
-    background-color: #303030;
+    background-color: @theme_base_color;
     border-color: #171717; }
 
 NautilusListView .view, NautilusListView iconview {
